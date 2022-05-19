@@ -1,0 +1,16 @@
+{
+  "password": "12345",
+  "pin": "1234",
+  "birthDate": "1990,2,3,0,0,0",
+  "language": "de_DE",
+  "addressCity": "Berlin",
+  "addressCountryIsoCode": "DE",
+  "addressStreet": "Teststr 279",
+  "addressZipCode": "20097",
+  "birthPlace": "Berlin",
+  "captchaCode": "null",
+  "firstName": "jose",
+  "generalTerms": true,
+  "lastName": "luis",
+  "salutation": "FRAU"
+}

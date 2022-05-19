@@ -1,0 +1,15 @@
+{
+  "password": "12345",
+  "pin": "1234",
+  "birthDate": "1990,2,3,0,0,0",
+  "language": "nl_NL",
+  "addressCity": "Amsterdam",
+  "addressCountryIsoCode": "NL",
+  "addressStreet": "Teststr 279",
+  "addressZipCode": "1011 AA",
+  "birthPlace": "Amsterdam",
+  "firstName": "Jose",
+  "generalTerms": true,
+  "lastName": "Luis",
+  "salutation": "FRAU"
+}
