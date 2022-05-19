@@ -1,4 +1,4 @@
-#### The test will check if a new user can be created on share now page with random created personal data information
+#### The test will create a new user with random created personal data information
 
 #### It uses Cucumber which means that your test class is a feature file
 
